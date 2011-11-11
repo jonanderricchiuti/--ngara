@@ -1,0 +1,27 @@
+;; Object software/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "software/"
+  :tables (list 
+   (semanticdb-table "login.php"
+    :major-mode 'html-mode
+    :tags 'nil
+    :file "login.php"
+    :pointmax 119
+    )
+   (semanticdb-table "index.php"
+    :major-mode 'html-mode
+    :tags '(("Estadios" section nil nil [327 514]) ("Inicio" section nil nil [514 564]) ("Jugadores" section nil nil [564 609]) ("Equipos" section nil nil [609 652]) ("Estadios" section nil nil [652 696]) ("Mi Perfil" section nil nil [696 741]) ("Roster" section nil nil [741 783]) ("Ligas" section nil nil [783 824]) ("Calendario" section nil nil [824 870]) ("Resultados" section nil nil [870 916]) ("Reglas" section nil nil [916 958]) ("Cont&aacutectenos" section nil nil [958 1472]) ("';
+		
+		echo \"Login o password incorrectos\"
+		
+		
+		
+echo '" section nil nil [1472 1475]))
+    :file "index.php"
+    :pointmax 1614
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre4"
+  :semanticdb-version "2.0pre4"
+  )

@@ -1,0 +1,21 @@
+;; Object Static/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "Static/"
+  :tables (list 
+   (semanticdb-table "header.php"
+    :major-mode 'html-mode
+    :tags '(("10th Inning Fantasy" section (:members (("Reg&iacutestate" section nil nil [993 996]))) nil [14 19]))
+    :file "header.php"
+    :pointmax 1130
+    )
+   (semanticdb-table "head.php"
+    :major-mode 'html-mode
+    :tags '(("Super Sistema 2.0" section nil nil [244 250]))
+    :file "head.php"
+    :pointmax 990
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre4"
+  :semanticdb-version "2.0pre4"
+  )

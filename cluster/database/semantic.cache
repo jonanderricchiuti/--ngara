@@ -1,0 +1,15 @@
+;; Object database/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "database/"
+  :tables (list 
+   (semanticdb-table "Makefile"
+    :major-mode 'makefile-gmake-mode
+    :tags '(("SQL" variable (:default-value ("psql")) nil [1 10]) ("SQLOPTS" variable (:default-value ("--quiet")) nil [10 26]) ("DATABASE" variable (:default-value ("Fantasy")) nil [26 43]) ("language" include nil (dependency-file none) [65 201]) ("password" include nil (dependency-file none) [65 201]) ("types" include nil (dependency-file none) [65 201]) ("schema" include nil (dependency-file none) [65 201]) ("tables" include nil (dependency-file none) [65 201]) ("functions" include nil (dependency-file none) [65 201]) ("triggers" include nil (dependency-file none) [65 201]) ("load" include nil (dependency-file none) [65 201]) ("sample" include nil (dependency-file none) [65 201]) ("users" include nil (dependency-file none) [65 201]) ("perms" include nil (dependency-file none) [65 201]) ("truncate" include nil (dependency-file none) [65 201]) ("truncate-sample" include nil (dependency-file none) [65 201]) ("drop-tables" include nil (dependency-file none) [65 201]) ("distclean" include nil (dependency-file none) [65 201]) ("language" include nil (dependency-file none) [216 305]) ("password" include nil (dependency-file none) [216 305]) ("types" include nil (dependency-file none) [216 305]) ("schema" include nil (dependency-file none) [216 305]) ("tables" include nil (dependency-file none) [216 305]) ("functions" include nil (dependency-file none) [216 305]) ("triggers" include nil (dependency-file none) [216 305]) ("load" include nil (dependency-file none) [216 305]) ("sample" include nil (dependency-file none) [216 305]) ("users" include nil (dependency-file none) [216 305]) ("perms" include nil (dependency-file none) [216 305]) ("database" function nil nil [306 350]) ("language" function nil nil [448 496]) ("password" function nil nil [496 561]) ("types" function nil nil [561 620]) ("schema" function nil nil [620 681]) ("tables" function nil nil [681 742]) ("functions" function nil nil [742 809]) ("triggers" function nil nil [809 874]) ("load" function nil nil [874 931]) ("sample" function nil nil [931 992]) ("users" function nil nil [992 1051]) ("perms" function nil nil [1051 1110]) ("truncate" function nil nil [1110 1175]) ("truncate-sample" function nil nil [1175 1254]) ("drop-tables" function nil nil [1254 1325]) ("distclean" function nil nil [1325 1388]))
+    :file "Makefile"
+    :pointmax 1388
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre4"
+  :semanticdb-version "2.0pre4"
+  )
